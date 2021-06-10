@@ -1,1 +1,1 @@
-A simple project using some React hooks.
+A simple project using some React Hooks.
